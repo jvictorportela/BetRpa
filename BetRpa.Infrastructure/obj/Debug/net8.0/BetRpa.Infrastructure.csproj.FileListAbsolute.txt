@@ -1,0 +1,16 @@
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\bin\Debug\net8.0\x86\leptonica-1.80.0.dll
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\bin\Debug\net8.0\x86\tesseract41.dll
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\bin\Debug\net8.0\x64\leptonica-1.80.0.dll
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\bin\Debug\net8.0\x64\tesseract41.dll
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\bin\Debug\net8.0\BetRpa.Infrastructure.deps.json
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\bin\Debug\net8.0\BetRpa.Infrastructure.dll
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\bin\Debug\net8.0\BetRpa.Infrastructure.pdb
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\BetRpa.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\BetRpa.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\BetRpa.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\BetRpa.Infrastructure.AssemblyInfo.cs
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\BetRpa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\BetRpa.Infrastructure.dll
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\refint\BetRpa.Infrastructure.dll
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\BetRpa.Infrastructure.pdb
+C:\Users\jvict\source\repos\BetRpa\BetRpa.Infrastructure\obj\Debug\net8.0\ref\BetRpa.Infrastructure.dll

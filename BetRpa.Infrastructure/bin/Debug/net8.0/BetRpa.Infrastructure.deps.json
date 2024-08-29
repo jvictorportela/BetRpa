@@ -1,0 +1,358 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BetRpa.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Easy.Automation": "1.0.0.12",
+          "Selenium.WebDriver.ChromeDriver": "127.0.6533.11900",
+          "Telegram.Bot": "19.0.0"
+        },
+        "runtime": {
+          "BetRpa.Infrastructure.dll": {}
+        }
+      },
+      "Easy.Automation/1.0.0.12": {
+        "dependencies": {
+          "Pdfbox": "1.1.1",
+          "Selenium.PhantomJS.WebDriver": "2.1.1",
+          "Selenium.Support": "3.8.0",
+          "Sikuli4Net": "1.0.6",
+          "System.Drawing.Common": "4.7.0",
+          "Tesseract": "4.1.1"
+        },
+        "runtime": {
+          "lib/net472/Easy.Automation.dll": {
+            "assemblyVersion": "1.0.0.7",
+            "fileVersion": "1.0.0.7"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.Win32.SystemEvents/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Pdfbox/1.1.1": {
+        "runtime": {
+          "lib/IKVM.OpenJDK.Beans.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Charsets.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Corba.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Core.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Jdbc.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Management.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Media.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Misc.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Naming.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Remoting.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Security.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.SwingAWT.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Text.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.Util.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.OpenJDK.XML.API.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.Runtime.JNI.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/IKVM.Runtime.dll": {
+            "assemblyVersion": "7.2.4630.5",
+            "fileVersion": "7.2.4630.5"
+          },
+          "lib/bcmail-jdk15-1.44.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/bcprov-jdk15-1.44.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/commons-logging.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/fontbox-1.8.2.dll": {
+            "assemblyVersion": "1.8.2.0",
+            "fileVersion": "1.8.2.0"
+          },
+          "lib/icu4j-3.8.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/jempbox-1.8.2.dll": {
+            "assemblyVersion": "1.8.2.0",
+            "fileVersion": "1.8.2.0"
+          },
+          "lib/junit.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/pdfbox-1.8.2.dll": {
+            "assemblyVersion": "1.8.2.0",
+            "fileVersion": "1.8.2.0"
+          }
+        }
+      },
+      "Selenium.PhantomJS.WebDriver/2.1.1": {},
+      "Selenium.Support/3.8.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "3.8.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/3.8.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/127.0.6533.11900": {},
+      "Sikuli4Net/1.0.6": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/Sikuli4Net.dll": {
+            "assemblyVersion": "1.0.5319.36348",
+            "fileVersion": "1.0.5319.36348"
+          }
+        }
+      },
+      "System.Drawing.Common/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.Win32.SystemEvents": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.56404"
+          },
+          "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "System.Reflection.Emit/4.7.0": {},
+      "Telegram.Bot/19.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/Telegram.Bot.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.0.0.0"
+          }
+        }
+      },
+      "Tesseract/4.1.1": {
+        "dependencies": {
+          "System.Reflection.Emit": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Tesseract.dll": {
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "4.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BetRpa.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Easy.Automation/1.0.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WEDUI6OdelNcJd1OSnPoHAvoLJarWBTRzjhJwUja7dEdAlQVOxvtz3ljMNBFgSSfpfcpPIwzYhtnQ15Tm2aJEQ==",
+      "path": "easy.automation/1.0.0.12",
+      "hashPath": "easy.automation.1.0.0.12.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtVirZr++rq+XCDITMUdnETD59XoeMxSpLRIII7JRI6Yj0LEDiO1pPn0ktlnIj12Ix8bfvQqQDMMIF9wC98oCA==",
+      "path": "microsoft.win32.systemevents/4.7.0",
+      "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Pdfbox/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nYQZCA+5qtJxNDgDiOTRTkqd2ThVT/o5ck6RZ0yLYit4hoB/Nmc5GT74vnHXWrMvYi+OE3i5HyjiLDbe0mzW1w==",
+      "path": "pdfbox/1.1.1",
+      "hashPath": "pdfbox.1.1.1.nupkg.sha512"
+    },
+    "Selenium.PhantomJS.WebDriver/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RkbBQqVh47WZWQjwl5iM/FFzY6ST89w9Pts31Vft36H/10gCLipRoSsM/ewkSm8EUWibagOVyAOQDqsL5RSzhw==",
+      "path": "selenium.phantomjs.webdriver/2.1.1",
+      "hashPath": "selenium.phantomjs.webdriver.2.1.1.nupkg.sha512"
+    },
+    "Selenium.Support/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dUjtHRqHt/JLcNodk/IvydquP15m534BMT4Zcq2BM9XYI4XCKX9iJR2qFWAHdv0IYUicZq+w5EsMzceyAe3FUw==",
+      "path": "selenium.support/3.8.0",
+      "hashPath": "selenium.support.3.8.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7CUnhcDpyUwY0fs/clW/avjJ8HSsDD3ae4JccC7Lz9oundxkWXLsH9jM0FfGkozj1rNnfYVYObXncQAQxXa4Qw==",
+      "path": "selenium.webdriver/3.8.0",
+      "hashPath": "selenium.webdriver.3.8.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/127.0.6533.11900": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GlmjCuSlaY9GEwrijkrZfPShqNtnR8mYam4b9U4LvoRyh5zD0F4ttnOXK1nGy/k2hRoADj0y2xTssWcTtldG/w==",
+      "path": "selenium.webdriver.chromedriver/127.0.6533.11900",
+      "hashPath": "selenium.webdriver.chromedriver.127.0.6533.11900.nupkg.sha512"
+    },
+    "Sikuli4Net/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vJJyRlq2CWwYRJA4SuDUGohX5rEtZi6ndsT6BSI5nMQvtMC+5CKvsOwoHPhtBMiC5s3RRZYepSHD/4ErZ33+og==",
+      "path": "sikuli4net/1.0.6",
+      "hashPath": "sikuli4net.1.0.6.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v+XbyYHaZjDfn0ENmJEV1VYLgGgCTx1gnfOBcppowbpOAriglYgGCvFCPr2EEZyBvXlpxbEsTwkOlInl107ahA==",
+      "path": "system.drawing.common/4.7.0",
+      "hashPath": "system.drawing.common.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
+      "path": "system.reflection.emit/4.7.0",
+      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    },
+    "Telegram.Bot/19.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Q16IOitgjGoaJOuqgKQy0FeF+hr/ncmlX2esrhCC7aiyhSX7roYEriWaGAHkQZR8QzbImjFfl4eQh2IxcnOrPg==",
+      "path": "telegram.bot/19.0.0",
+      "hashPath": "telegram.bot.19.0.0.nupkg.sha512"
+    },
+    "Tesseract/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-abufaW6N3P7TGJPI3RNTMSzS1ycnE1w6aW/Q+Hco/wCgm+bXUgR87JsGELvTcm2FISXGlQgs+PvYMVo9SlcPfg==",
+      "path": "tesseract/4.1.1",
+      "hashPath": "tesseract.4.1.1.nupkg.sha512"
+    }
+  }
+}
